@@ -1,6 +1,8 @@
-#READMe for project node-docgen
 
-##JSON and XML Weather API and Geo Developer API
+README for project node-docgen
+-------------------------------
+
+JSON and XML Weather API and Geo Developer API
 
 - https://www.apixu.com/my/
 - https://www.apixu.com/
@@ -8,9 +10,8 @@
 
 
 
-
-##Example object created 
-#
+Example object created 
+------------------------
 - { id: 'temperature01',
   name: 'Temperature deg.C',
   data: 
