@@ -2,7 +2,7 @@ var request = require('request');
 var moment = require('moment');
 var fs = require('fs');
 
-request('http://api.apixu.com/v1/history.json?key=0c29ba092be14814896103455170104&q=Athlone&dt=2017-04-01', function(err, res, body) {  
+request('http://api.apixu.com/v1/history.json?key=0bd812b4d4124365ae5153129170104&q=Athlone&dt=2017-03-27', function(err, res, body) {  
     bodyProcessor(body);
 });
 
