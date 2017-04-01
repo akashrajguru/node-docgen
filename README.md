@@ -1,17 +1,17 @@
-## READMe for project node-docgen
+##READMe for project node-docgen
 
-#JSON and XML Weather API and Geo Developer API
+##JSON and XML Weather API and Geo Developer API
 
-https://www.apixu.com/my/
-https://www.apixu.com/
-https://github.com/apixu/apixu-nodejs/blob/master/weatherlib.js
-
-
+- https://www.apixu.com/my/
+- https://www.apixu.com/
+- https://github.com/apixu/apixu-nodejs/blob/master/weatherlib.js
 
 
-#Example object created 
+
+
+##Example object created 
 #
-{ id: 'temperature01',
+- { id: 'temperature01',
   name: 'Temperature deg.C',
   data: 
    [ { name: '1:00 AM', y: 4.4 },
@@ -38,7 +38,7 @@ https://github.com/apixu/apixu-nodejs/blob/master/weatherlib.js
      { name: '10:00 PM', y: 4.9 },
      { name: '11:00 PM', y: 4.4 },
      { name: '12:00 AM', y: 3.9 } ] }
-{ id: 'windSpeed01',
+- { id: 'windSpeed01',
   name: 'WindSpeed Mph',
   data: 
    [ { name: '1:00 AM', y: 3.8 },
@@ -65,7 +65,7 @@ https://github.com/apixu/apixu-nodejs/blob/master/weatherlib.js
      { name: '10:00 PM', y: 6.9 },
      { name: '11:00 PM', y: 6.6 },
      { name: '12:00 AM', y: 6.2 } ] }
-{ id: 'humidity01',
+- { id: 'humidity01',
   name: 'Humidity %',
   data: 
    [ { name: '1:00 AM', y: 0.97 },
