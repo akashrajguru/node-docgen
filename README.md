@@ -10,6 +10,7 @@ https://github.com/apixu/apixu-nodejs/blob/master/weatherlib.js
 
 
 #Example object created 
+#
 { id: 'temperature01',
   name: 'Temperature deg.C',
   data: 
